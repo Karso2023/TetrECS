@@ -1,7 +1,6 @@
 ## TetrECS ##
 ### Video Demo ###
 
-### To Do ###
+### Bug ###
 - Fix game bar problem
-- Add multiplayer function
 
